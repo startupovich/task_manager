@@ -6,7 +6,7 @@ FastAPI приложение для управления задачами с п�
 
 ```bash
 # 1. Клонирование и установка
-git clone <https://github.com/startupovich/task_manager>
+git clone https://github.com/startupovich/task_manager
 cd task_manager
 python -m venv venv
 venv\Scripts\activate  # Windows
